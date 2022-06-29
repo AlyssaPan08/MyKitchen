@@ -1,6 +1,14 @@
 # onlineOrder
 Mini doordash web application
 
-The framework and library used
-Backend：Spring MVC, Spring
-Frontend：React, CSS, JavaScript
+Presentation tier: 
+Language: HTML, CSS, JavaScript;
+Framework: React.js;
+
+Logic tier: 
+Language: Java;
+Framework: Spring;
+
+Data tier:
+Language: SQL
+Framework: Hibernate
